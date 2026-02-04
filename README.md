@@ -1,94 +1,144 @@
-# Hi, I'm Aleksandr 👋
+# Hi, I'm Aleksandr
 
-I'm a developer with **15+ years of programming experience** and **5+ years specializing in blockchain & crypto**. My main focus is on **real-time transaction analysis**, **block-scanning bots**, **whale detection**, and **arbitrage / DeFi tooling**.
+Backend / Web3 Engineer focused on EVM infrastructure and real-time
+on-chain systems.
 
-I have strong hands-on experience with **Solidity** (certified), but I'm not limited to it — I actively work with **JavaScript, Node.js**, and the broader **EVM ecosystem**.
+I have 15+ years of software development experience, including 5+ years
+in blockchain and crypto. My core expertise is in real-time transaction
+processing, EVM decoding, DeFi mechanics, and monitoring infrastructure.
 
----
+I build systems that analyze blocks, trace transactions, detect whale
+activity, and execute on-chain strategies.
 
-## 🚀 Key Skills & Tech Stack
+------------------------------------------------------------------------
 
-### Languages & Frameworks
-- JavaScript (ES6+)
-- Node.js
-- Solidity
+## Core Competencies
 
-### Blockchain & Web3
-- ethers.js / Web3.js
-- Infura & Alchemy APIs
-- Remix IDE (rapid prototyping)
-- Hardhat / Foundry (production-grade workflows, in progress)
+### Programming
 
-### Crypto & DeFi Expertise
-- Real-time transaction parsing (blocks, events, logs)
-- Whale / swap detection
-- DeFi mechanics (Uniswap pools, liquidity, multi-hop swaps)
-- Arbitrage logic & on-chain monitoring
-- MEV protection (private RPCs: bloXroute, MEV-Blocker)
+-   TypeScript
+-   JavaScript (ES6+)
+-   Solidity
 
-### Security Awareness
-- Common vulnerabilities: reentrancy, overflows, front‑running
-- Static analysis with **Slither**
+### EVM & Web3
 
-### Tooling & Environment
-- Git
-- WebStorm IDE (Solidity plugins, powerful debugger)
-- AI‑assisted coding:
-  - ChatGPT / Grok — architecture, ideas, reviews
-  - DeepSeek / DeepThink — precise implementation & code generation
+-   viem / ethers.js 6
+-   JSON-RPC, debug_traceTransaction
+-   EVM transaction decoding (logs, calldata, internal calls)
+-   Multinode RPC handling & fault tolerance
+-   Gas model & execution flow understanding
 
----
+### DeFi & Trading Logic
 
-## 🧠 Background
+-   Uniswap-style AMMs (v2/v3 mechanics)
+-   Multi-hop swaps
+-   Arbitrage logic (triangular strategies)
+-   Slippage control & liquidity analysis
+-   MEV awareness (private RPC, bundle relays)
 
-- **Freelance / self‑employed since 2010**
-- Built **50+ crypto projects**: bots, analyzers, smart contracts
-- Worked with private clients under **strict NDAs**
-  - Code ownership transferred
-  - Ideas and implementations remain confidential
+### Smart Contract Development
 
-While I haven't worked in large teams yet, I'm **highly motivated to transition into collaborative environments** and learn:
-- Agile workflows
-- Code reviews
-- Team-based development practices
+-   Solidity architecture
+-   Router integrations
+-   Custom errors & gas considerations
+-   Reentrancy awareness
+-   Static analysis (Slither)
 
----
+### Infrastructure & Tooling
 
-## 🎯 What I'm Looking For
+-   MySQL / SQLite
+-   Event-driven architectures
+-   Telegram bots & notification systems
+-   Git
+-   WebStorm
 
-- Remote **junior / middle** role in:
-  - Web3
-  - DeFi
-  - Trading & on-chain analytics tools
-- Ready to start from junior level for hands‑on team experience
-- **Availability:** 14–18 hours/day
-- **Target compensation:** $3k+/month initially, with growth
+------------------------------------------------------------------------
 
-### English
-- Intermediate level
-- Strong technical reading & writing
-- Actively improving speaking for calls & meetings
+## Selected Work
 
----
+### EVM Wallet Monitoring Infrastructure
 
-## ⚙️ Workflow
+Production-oriented transaction monitoring system:
 
-- **Development:**
-  - WebStorm for core development
-  - Remix + AI tools for fast prototyping, debugging & gas optimization
+- Multinode RPC consensus
+- Fast / full decoding pipeline
+- Internal call tracing
+- Deterministic message updates
+- Bounded deduplication
 
-- **Testing:**
-  - Mocha / Chai
-  - Actively adopting Hardhat & Foundry for unit and integration tests
+### Triangle Arbitrage Smart Contract
 
-- **AI Integration:**
-  - Ideation & architecture with ChatGPT / Grok
-  - Focused execution with DeepSeek for reliable, deterministic output
+- On-chain swap execution via DEX routers
+- Slippage protection
+- Profit validation before execution
+- Structured event logging
 
----
+### EVM Bytecode Decompiler
 
-## 🤝 Final Note
+Custom bytecode decompiler for EVM contracts:
 
-I'm moving from solo freelance work into **team-based development** and I'm genuinely excited to contribute, learn, and grow inside real products.
+- Opcode parser and stack analysis
+- Control-flow reconstruction
+- Symbolic tracking of storage and calldata
+- Useful in audits, investigations, and reverse engineering
+- Integrates with viem / EVM tooling workflows
 
-Open to discussions, test tasks, and long-term collaboration 🚀
+------------------------------------------------------------------------
+
+## Engineering Approach
+
+-   Prefer modular, layered architectures
+-   Design for fault tolerance and idempotency
+-   Consider gas efficiency and execution guarantees
+-   Explicitly document trade-offs and limitations
+-   Focus on deterministic behavior in distributed systems
+
+------------------------------------------------------------------------
+
+## Background
+
+-   Freelance / self-employed since 2010
+-   Delivered 50+ crypto-related projects (bots, analyzers, contracts)
+-   Worked under NDA agreements (code ownership transferred)
+
+Currently transitioning from solo work into collaborative product teams.
+
+------------------------------------------------------------------------
+
+## What I'm Looking For
+
+Remote role in:
+
+-   Web3 backend
+-   DeFi infrastructure
+-   On-chain analytics
+-   Trading / monitoring systems
+
+Open to junior or middle positions to integrate into a strong
+engineering team and grow within structured development environments.
+
+------------------------------------------------------------------------
+
+## Availability
+
+-   Full-time remote
+-   Flexible schedule
+-   Comfortable working across time zones
+
+------------------------------------------------------------------------
+
+## English
+
+-   Intermediate
+-   Strong technical reading & writing
+-   Actively improving spoken communication
+
+------------------------------------------------------------------------
+
+## Notes
+
+I actively use modern tooling to improve productivity and code quality,
+but all architectural decisions and final implementations are reviewed
+and understood at a systems level.
+
+Open to discussions, technical interviews, and practical test tasks.
