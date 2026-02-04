@@ -12,7 +12,7 @@ activity, and execute on-chain strategies.
 
 ------------------------------------------------------------------------
 
-## Core Competencies
+## 🛠 Core Competencies
 
 ### Programming
 
@@ -54,38 +54,38 @@ activity, and execute on-chain strategies.
 
 ------------------------------------------------------------------------
 
-## Selected Work
+## 🚀 Selected Work
 
 ### EVM Wallet Monitoring Infrastructure
 
 Production-oriented transaction monitoring system:
 
-- Multinode RPC consensus
-- Fast / full decoding pipeline
-- Internal call tracing
-- Deterministic message updates
-- Bounded deduplication
-
-### Triangle Arbitrage Smart Contract
-
-- On-chain swap execution via DEX routers
-- Slippage protection
-- Profit validation before execution
-- Structured event logging
+-   Multinode RPC consensus
+-   Fast / full decoding pipeline
+-   Internal call tracing
+-   Deterministic message updates
+-   Bounded deduplication
 
 ### EVM Bytecode Decompiler
 
 Custom bytecode decompiler for EVM contracts:
 
-- Opcode parser and stack analysis
-- Control-flow reconstruction
-- Symbolic tracking of storage and calldata
-- Useful in audits, investigations, and reverse engineering
-- Integrates with viem / EVM tooling workflows
+-   Opcode parser and stack analysis
+-   Control-flow reconstruction
+-   Symbolic tracking of storage and calldata
+-   Useful in audits, investigations, and reverse engineering
+-   Integrates with viem / EVM tooling workflows
+
+### Triangle Arbitrage Smart Contract
+
+-   On-chain swap execution via DEX routers
+-   Slippage protection
+-   Profit validation before execution
+-   Structured event logging
 
 ------------------------------------------------------------------------
 
-## Engineering Approach
+## 🧠 Engineering Approach
 
 -   Prefer modular, layered architectures
 -   Design for fault tolerance and idempotency
@@ -95,7 +95,7 @@ Custom bytecode decompiler for EVM contracts:
 
 ------------------------------------------------------------------------
 
-## Background
+## 📈 Background
 
 -   Freelance / self-employed since 2010
 -   Delivered 50+ crypto-related projects (bots, analyzers, contracts)
@@ -105,7 +105,7 @@ Currently transitioning from solo work into collaborative product teams.
 
 ------------------------------------------------------------------------
 
-## What I'm Looking For
+## 🎯 What I'm Looking For
 
 Remote role in:
 
@@ -119,7 +119,7 @@ engineering team and grow within structured development environments.
 
 ------------------------------------------------------------------------
 
-## Availability
+## ⏳ Availability
 
 -   Full-time remote
 -   Flexible schedule
@@ -127,7 +127,7 @@ engineering team and grow within structured development environments.
 
 ------------------------------------------------------------------------
 
-## English
+## 🌍 English
 
 -   Intermediate
 -   Strong technical reading & writing
@@ -135,7 +135,7 @@ engineering team and grow within structured development environments.
 
 ------------------------------------------------------------------------
 
-## Notes
+## 📝 Notes
 
 I actively use modern tooling to improve productivity and code quality,
 but all architectural decisions and final implementations are reviewed
