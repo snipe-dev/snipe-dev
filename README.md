@@ -10,6 +10,11 @@ processing, EVM decoding, DeFi mechanics, and monitoring infrastructure.
 I build systems that analyze blocks, trace transactions, detect whale
 activity, and execute on-chain strategies.
 
+[![Telegram](https://img.shields.io/badge/Telegram-@snipe__dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/snipe_dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-snipe--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snipe-dev/)
+[![X](https://img.shields.io/badge/X-@snipe__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/snipe_dev)
+![Profile Views](https://komarev.com/ghpvc/?username=snipe-dev&label=Views&color=0e75b6&style=flat-square)
+
 ------------------------------------------------------------------------
 
 ## 🛠 Core Competencies
