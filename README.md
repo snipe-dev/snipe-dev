@@ -1,149 +1,27 @@
-# Hi, I'm Aleksandr
-
 Backend / Web3 Engineer focused on EVM infrastructure and real-time
 on-chain systems.
 
-I have 15+ years of software development experience, including 5+ years
-in blockchain and crypto. My core expertise is in real-time transaction
-processing, EVM decoding, DeFi mechanics, and monitoring infrastructure.
+I design systems for:
 
-I build systems that analyze blocks, trace transactions, detect whale
-activity, and execute on-chain strategies.
+-   block and mempool analysis
+-   transaction tracing
+-   whale activity detection
+-   on-chain execution strategies
+
+
+**Programming**\
+● TypeScript ● JavaScript (ES6+) ● Solidity
+
+**EVM & Web3**\
+● viem ● ethers.js 6 ● EVM decoding (logs, calldata, internal calls)
+
+**DeFi & Trading**\
+● Uniswap v2/v3 mechanics ● Slippage control ● Liquidity analysis ● MEV-aware execution
+
+**Smart Contracts**\
+● Solidity architecture ● Router integrations ● Gas optimization ● Multi-hop swaps ● Triangular arbitrage
+
 
 [![Telegram](https://img.shields.io/badge/Telegram-@snipe__dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/snipe_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snipe--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snipe-dev/)
 [![X](https://img.shields.io/badge/X-@snipe__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/snipe_dev)
-![Profile Views](https://komarev.com/ghpvc/?username=snipe-dev&label=Views&color=0e75b6&style=flat-square)
-
-------------------------------------------------------------------------
-
-## 🛠 Core Competencies
-
-### Programming
-
--   TypeScript
--   JavaScript (ES6+)
--   Solidity
-
-### EVM & Web3
-
--   viem / ethers.js 6
--   JSON-RPC, debug_traceTransaction
--   EVM transaction decoding (logs, calldata, internal calls)
--   Multinode RPC handling & fault tolerance
--   Gas model & execution flow understanding
-
-### DeFi & Trading Logic
-
--   Uniswap-style AMMs (v2/v3 mechanics)
--   Multi-hop swaps
--   Arbitrage logic (triangular strategies)
--   Slippage control & liquidity analysis
--   MEV awareness (private RPC, bundle relays)
-
-### Smart Contract Development
-
--   Solidity architecture
--   Router integrations
--   Custom errors & gas considerations
--   Reentrancy awareness
--   Static analysis (Slither)
-
-### Infrastructure & Tooling
-
--   MySQL / SQLite
--   Event-driven architectures
--   Telegram bots & notification systems
--   Git
--   WebStorm
-
-------------------------------------------------------------------------
-
-## 🚀 Selected Work
-
-### EVM Wallet Monitoring Infrastructure
-
-Production-oriented transaction monitoring system:
-
--   Multinode RPC consensus
--   Fast / full decoding pipeline
--   Internal call tracing
--   Deterministic message updates
--   Bounded deduplication
-
-### EVM Bytecode Decompiler
-
-Custom bytecode decompiler for EVM contracts:
-
--   Opcode parser and stack analysis
--   Control-flow reconstruction
--   Symbolic tracking of storage and calldata
--   Useful in audits, investigations, and reverse engineering
--   Integrates with viem / EVM tooling workflows
-
-### Triangle Arbitrage Smart Contract
-
--   On-chain swap execution via DEX routers
--   Slippage protection
--   Profit validation before execution
--   Structured event logging
-
-------------------------------------------------------------------------
-
-## 🧠 Engineering Approach
-
--   Prefer modular, layered architectures
--   Design for fault tolerance and idempotency
--   Consider gas efficiency and execution guarantees
--   Explicitly document trade-offs and limitations
--   Focus on deterministic behavior in distributed systems
-
-------------------------------------------------------------------------
-
-## 📈 Background
-
--   Freelance / self-employed since 2010
--   Delivered 50+ crypto-related projects (bots, analyzers, contracts)
--   Worked under NDA agreements (code ownership transferred)
-
-Currently transitioning from solo work into collaborative product teams.
-
-------------------------------------------------------------------------
-
-## 🎯 What I'm Looking For
-
-Remote role in:
-
--   Web3 backend
--   DeFi infrastructure
--   On-chain analytics
--   Trading / monitoring systems
-
-Open to junior or middle positions to integrate into a strong
-engineering team and grow within structured development environments.
-
-------------------------------------------------------------------------
-
-## ⏳ Availability
-
--   Full-time remote
--   Flexible schedule
--   Comfortable working across time zones
-
-------------------------------------------------------------------------
-
-## 🌍 English
-
--   Intermediate
--   Strong technical reading & writing
--   Actively improving spoken communication
-
-------------------------------------------------------------------------
-
-## 📝 Notes
-
-I actively use modern tooling to improve productivity and code quality,
-but all architectural decisions and final implementations are reviewed
-and understood at a systems level.
-
-Open to discussions, technical interviews, and practical test tasks.
