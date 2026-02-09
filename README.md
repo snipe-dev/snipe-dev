@@ -22,3 +22,4 @@ Remote Web3 Backend / DeFi Infrastructure roles (full-time).
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snipe--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snipe-dev/)
 [![X](https://img.shields.io/badge/X-@snipe__dev-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/snipe_dev)
 [![npm profile](https://img.shields.io/badge/npm-snipe--dev-red?style=flat-square&logo=npm)](https://www.npmjs.com/~snipe-dev)
+[![Profile Views](https://komarev.com/ghpvc/?username=snipe-dev&label=Views&color=24292f&style=flat-square)](https://github.com/snipe-dev)
